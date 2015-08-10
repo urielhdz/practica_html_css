@@ -1,0 +1,75 @@
+html,body{
+	height: 100%;
+	font-family: Helvetica;
+}
+header{
+	background:url(imgs/background.jpg);
+	height: 100%;
+	padding-top:1px;
+}
+
+.text-center{
+	text-align: center;
+}
+.text-jusify{
+	text-align: justify;
+}
+.big-top-space{
+	margin-top: 150px;
+}
+.big-bottom-space{
+	margin-bottom: 200px;
+}
+.circle{
+	border-radius: 50%;
+}
+.be-medium{
+	font-size: 2em;
+}
+.be-big{
+	font-size: 3em;
+}
+.container{
+	width: 80%;
+	margin-right:auto;
+	margin-left:auto;
+}
+/* Esta clase es para los bloqus que contengan un posible nombre y los votos */
+.posible-nombre{
+	width: 25%;
+}
+.ocupa-mitad{
+	width: 50%;
+}
+.inline-block{
+	display: inline-block;
+	margin-right: -4px;
+}
+.green-text{
+	color: #009688;
+}
+.white-text{
+	color: white;
+}
+.red-text{
+	color: #b71c1c;
+}
+.blue{
+	background-color: rgb(50,50,200);
+}
+.small-border-radius{
+	border-radius: 3px;
+}
+
+.inline{
+	display: inline;
+}
+.form-control{
+	width: 100%;
+	font-size: 1.5em;
+	border: none;
+	border-bottom: solid 1px black;
+	outline: none;
+}
+
+
